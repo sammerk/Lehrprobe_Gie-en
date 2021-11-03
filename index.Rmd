@@ -1,7 +1,7 @@
 ---
 title: "Kommt es auf die Lehrkraft an?"
 subtitle: "Was wir aus »besonderen« Untersuchungsdesigns über Unterrichtsqualität lernen können"
-author: "Samuel Merk - Universität Tübingen - 30.01.2019"
+author: "Samuel Merk - Pädagogische Hochschule Karlsruhe - 03.11.2021"
 output:
   ioslides_presentation:
     css: /Users/samuelmerk/Google Drive/Uni_gdrive/Administratives/Bewerbung/W3_Gießen/Lehrprobe_Gießen/my.css
@@ -32,20 +32,28 @@ knitr::opts_chunk$set(echo = FALSE)
 * Zusammenfassung
 
 <center>
-<div class="top-three" font-size=7pt><span style="color:#a51e41"><font size="5pt"><p></p><p></p>
-Alle Folien & deren Quellcode unter https://osf.io/d5mgb verfügbar</font></span></div>
+<div class="top-three" font-size=7pt><span style="color:#8cd000"><font size="5pt"><p></p><p></p>
+Alle Folien & deren Quellcode unter https://bit.ly/merk010 verfügbar</font></span></div>
 </center>
 # Aktivierung Ihres Vorwissens
 
-## Zunächst _Ihre Einschätzung/Ihr Vorwissen:_  
-```{r}
-knitr::include_url("https://viz.polleverywhere.com/surveys/yNGCgQsucJXFlWGiopmGG")
-```
+## Zunächst _Ihre Auffassung/Ihr Vorwissen/Ihre Meinung:_  
+
+<iframe src="https://embed.polleverywhere.com/free_text_polls/Gde1Xg1WXvz9pKkSBv41p?controls=presenter" width="800px" height="600px"></iframe>
+
 
 <center>
-<div class="top-nullfour" font-size=7pt><span style="color:#a51e41"><font size="3pt"><p></p><p></p>
-Alle Folien & deren Quellcode unter https://osf.io/d5mgb verfügbar</font></span></div>
+<div class="top-nullfour" font-size=7pt><span style="color:#8cd000"><font size="3pt"><p></p><p></p>
+Alle Folien & deren Quellcode unter https://bit.ly/merk010 verfügbar</font></span></div>
 </center>
+
+<div class="notes">
+*	Sowie Sie doch sehr unterschiedliches unter Unterrichtsqualität verstehen
+* Unterrichtqualität wurde in den letzten 100 Jahren natürlich unter sehr vielen verschiedenen Gesichtspunkten, Perspektiven, Konzepten betrachtet
+* Das ist ja, denke ich auch plausibel, der Begriff der „Qualität“ impliziert ja, dass eine normative Dimension festgelegt werden muss, anhand derer beurteilt werden kann was gut, was besser was schlechter ist ... und gerade auch in dieser Dimension unterscheiden sich die Konzepte von Unterrichtsqualität deutlich.
+* Alle Konzepte nur zu skizzieren oder eines detailliert herauszuheben macht glaube ich keinen Sinn – deshalb habe ich auf der nächsten Folie eine Gliederung dieser vielen Konzepte dargestellt.
+* Diese Gliederung basiert auf einer Idee von David  Berliner
+</div>
 
 # Verortung & Definition
 ## Unterrichtsqualität
@@ -54,23 +62,46 @@ knitr::include_graphics("img/Unterrichtsqualitaet.png")
 ```
 
 <center>
-<div class="top-one" font-size=7pt><span style="color:#a51e41"><font size="3pt"><p></p><p></p>
-Alle Folien & deren Quellcode unter https://osf.io/d5mgb verfügbar</font></span></div>
+<div class="top-one" font-size=7pt><span style="color:#8cd000"><font size="3pt"><p></p><p></p>
+Alle Folien & deren Quellcode unter https://bit.ly/merk010 verfügbar</font></span></div>
 </center>
+
+
+
 
 ## Unterrichtsqualität: Definition & Kontext
 <b>Eine vglw. breite Definition nach Klieme [-@klieme2019, S. 396]:</b>  
-*»Unterrichtsqualität wird hier also verstanden als Gesamtheit der <span style="color:#b4a069;font-weight:bold">empirisch beobachtbaren Merkmale des Unterrichtsgeschehens</span>, die nachweislich mit der Entwicklung der Lernenden im Sinne der Realisierung von <span style="color:#a51e41;font-weight:bold">Bildungs- und Erziehungszielen</span> einhergehen.«*
+*»Unterrichtsqualität wird hier also verstanden als Gesamtheit der <span style="color:#a51e41;font-weight:bold">empirisch beobachtbaren Merkmale des Unterrichtsgeschehens</span>, die nachweislich mit der Entwicklung der Lernenden im Sinne der Realisierung von <span style="color:#8cd000;font-weight:bold">Bildungs- und Erziehungszielen</span> einhergehen.«*
 
 Im Kontext aktueller empirischer (insb. deutschsprachiger) Forschung <i class="fas fa-eye"></i> 
 
-* wird meistens die <span style="color:#a51e41;font-weight:bold">Leistungsentwicklung</span> als Kriterium fokussiert [@kunter2013b];
+* wird meistens die <span style="color:#8cd000;font-weight:bold">Leistungsentwicklung</span> als Kriterium fokussiert [@kunter2013b];
 * werden meistens sog. generische Tiefenstrukturen als Unterrichtsmerkmale betrachtet [@praetorius2018]
-    * <span style="color:#b4a069;font-weight:bold">Klassenführung</span> (classroom management)
-    * <span style="color:#b4a069;font-weight:bold">Konstruktive Unterstützung</span> (student support)
-    * <span style="color:#b4a069;font-weight:bold">Kognitive Aktivierung</span> (cognitive activation)
+    * <span style="color:#a51e41;font-weight:bold">Klassenführung</span> (classroom management)
+    * <span style="color:#a51e41;font-weight:bold">Konstruktive Unterstützung</span> (student support)
+    * <span style="color:#a51e41;font-weight:bold">Kognitive Aktivierung</span> (cognitive activation)
+
+
+<div class="notes">
+*positive Beziehung & wertschätzender Umgang
+* Ausrichtung auf „Verstehen“ und „schlussfolgerndes Denken“
+</div>
+
+# Kurze Übung
+## Übung 1
+<iframe src="https://embed.polleverywhere.com/clickable_images/npkVFC0jpBlU424ap5501?controls=presenter&short_poll=true" width="800px" height="600px"></iframe>
+
+## Übung 2
+<iframe src="https://embed.polleverywhere.com/clickable_images/N7dKAEXwLuVvswlw5RoYv?controls=presenter&short_poll=true" width="800px" height="600px"></iframe>
+
+## Übung 3
+<iframe src="https://embed.polleverywhere.com/clickable_images/YPueqxWTu66rTkpQdCvrF?controls=presenter&short_poll=true" width="800px" height="600px"></iframe>
 
 # Kommt es auf die Lehrkraft an?    
+
+
+<div class="notes">Ja, jetzt haben wir also den Begriff UQ soweit geklärt, dass wir zum spannenden Punkt kommen können uns anzuschauen, wie die Empirische SuUF der Frage nachgeht & zu welchen Ergebnissen sie kommt</div>
+
 ## Kommt es auf die Lehrkraft an?
 ### Häufige, aber »schwache« Forschungsdesigns
 * Querschnittliche Stichproben
@@ -111,8 +142,8 @@ $\Rightarrow$ wenig informativ zur Beantwortung der Frage »Kommt es auf die Leh
 
 ## Kommt es auf die Lehrkraft an?
 ### Seltene Forschungsdesigns 
-* Intensive Daten [z.B. @fauth2019; @meissner2020]
-    * *Dieselbe Lehrerin unterrichtet dasselbe in verschiedenen Klassen*
+* Intensive Daten [z.B. @fauth2021; @meissner2020]
+    * *Dieselbe Lehrer\*in unterrichtet dasselbe in verschiedenen Klassen*
 * Imperfekte Hierarchien [z.B. @meissner2016; @praetorius2016; @merk2019]
     * *Beobachtung von vielen Lehrer\*innen in ihren diversen Klassen*
 * Randomisierte imperfekte Hierarchien [z.B. @polikoff2015; @lei2018]
@@ -122,7 +153,7 @@ $\Rightarrow$ informativer zur Beantwortung der Frage »Kommt es auf die Lehrkra
 
 # Exemplarische Befunde
 ## Exemplarische Befunde: Intensive Daten
-```{r, out.width="100%", fig.cap="Abb. 2: Mehrfach beobachtete Unterrichtsqualität einer Lehrkraft [@fauth2019]", fig.align='center'}
+```{r, out.width="100%", fig.cap="Abb. 2: Mehrfach beobachtete Unterrichtsqualität einer Lehrkraft [@fauth2021]", fig.align='center'}
 knitr::include_graphics("img/Same_Teacher_AA.png") ## EG: abiturma Daten
 ```
 
